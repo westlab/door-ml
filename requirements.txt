@@ -1,9 +1,16 @@
+apipkg==1.4
 boto==2.40.0
 bz2file==0.98
+execnet==1.4.1
 falcon==1.0.0
 gensim==0.12.4
 numpy==1.11.0
 pandas==0.18.1
+pep8==1.7.0
+py==1.4.31
+pytest==2.9.1
+pytest-cache==1.0
+pytest-pep8==1.0.6
 python-dateutil==2.5.3
 python-mimeparse==1.5.2
 pytz==2016.4
